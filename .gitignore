@@ -41,3 +41,18 @@ pnpm-debug.log*
 .vscode/
 .idea/
 
+# OneDrive / temp
+~$*
+.tmp
+
+# Data
+data/
+
+# Python bytecode compiled
+*.pyc
+
+# Secrets
+.env.local
+.env.*.local
+
+
